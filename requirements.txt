@@ -4,7 +4,7 @@ argh==0.26.1
 Babel==2.1.1
 decorator==4.0.4
 docutils==0.12
-Jinja2==2.8
+Jinja2==2.11.3
 line-profiler==1.0
 livereload==2.4.0
 MarkupSafe==0.23
